@@ -1,0 +1,7 @@
+- HTML
+- CSS3
+- Bootstrap
+- JavaScript
+- Node.js
+- SQLite
+- Docker / Docker Compose
