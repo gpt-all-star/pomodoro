@@ -1,0 +1,4 @@
+- React
+- JavaScript
+- chakra-ui
+- HTML

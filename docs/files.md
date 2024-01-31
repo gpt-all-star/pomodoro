@@ -1,0 +1,7 @@
+- ./public/index.html
+- ./src/index.js
+- ./src/App.js
+- ./src/components/Timer.js
+- ./src/components/StartButton.js
+- ./src/components/PauseButton.js
+- ./src/components/ResetButton.js
